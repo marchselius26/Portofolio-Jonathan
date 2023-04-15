@@ -1,0 +1,23 @@
+body {
+    height: 100%;
+}
+
+#organisasi img {
+    object-fit: contain;
+    width: 200px;
+    height: 200px;
+    background: #fff;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+
+#pekerjaan img {
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
